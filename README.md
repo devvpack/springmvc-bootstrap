@@ -12,9 +12,9 @@ Branches:
 - Spring 3.2.5 / Bootstrap 3.0 - [Branch 3.X](https://github.com/priyatam/springmvc-bootstrap-showcase/tree/3.x)
 - Spring 3.1.0 / Bootstrap 2.3 - [Branch 2.X](https://github.com/priyatam/springmvc-bootstrap-showcase/tree/2.x)
 
-Live Demo on Heroku.
+Live Demo on Devpack.
 
-> http://spring-bootstrap.herokuapp.com/
+> https://spring-bootstrap.devpack.co.kr/
 
 ## Usage
 
