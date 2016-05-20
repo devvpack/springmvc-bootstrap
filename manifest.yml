@@ -1,8 +1,8 @@
 ---
 applications:
 - name: spring-bootstrap
-  memory: 256M
+  memory: 512M
   instances: 1
-  host: none
-  domain: none
-  path: .
+  host: spring-bootstrap-${random-word}
+  domain: devpack.co.kr
+  path: /target/springmvc-bootstrap-showcase.war
